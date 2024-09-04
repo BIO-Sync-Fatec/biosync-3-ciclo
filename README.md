@@ -3,7 +3,7 @@
 <br>
 
 <div align="center" > 
-  <img src="" width="150px">
+  <img src="C:\Users\lucas\Downloads\logo-bio-sync-login.png" width="150px">
 </div>
 
 <br>
