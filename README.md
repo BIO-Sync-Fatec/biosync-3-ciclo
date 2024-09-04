@@ -3,7 +3,7 @@
 <br>
 
 <div align="center" > 
-  <img src="C:\Users\lucas\Downloads\logo-bio-sync-login.png" width="150px">
+  <img src="https://github.com/lucasmaciel1/bioSync/blob/master/midia/img/logo/logo-bio-sync-login.png" width="150px">
 </div>
 
 <br>
